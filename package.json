@@ -1,0 +1,19 @@
+{
+  "name": "coupon-management-assignment",
+  "version": "1.0.0",
+  "description": "Simple Coupon Management Service for assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start-dev": "nodemon server.js"
+  },
+  "author": "Arshiya",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
